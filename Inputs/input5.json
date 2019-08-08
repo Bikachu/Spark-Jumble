@@ -1,0 +1,10 @@
+{
+		"GYRINT" : [0,1,3],
+		"DRIVET" : [2,5],
+		"SNAMEA": [0,5],
+		"CEEDIT": [1,3,5],
+		"SOWDAH" : [0,3],
+		"ELCHEK" : [1,5],
+		"RESULT_LENGTH": [6,8]
+
+}
